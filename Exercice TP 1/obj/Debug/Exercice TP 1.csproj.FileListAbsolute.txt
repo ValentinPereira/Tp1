@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Exercice TP 1\Exercice TP 1\bin\Debug\Exercice TP 1.exe.config
+C:\Users\Dell\source\repos\Exercice TP 1\Exercice TP 1\bin\Debug\Exercice TP 1.exe
+C:\Users\Dell\source\repos\Exercice TP 1\Exercice TP 1\bin\Debug\Exercice TP 1.pdb
+C:\Users\Dell\source\repos\Exercice TP 1\Exercice TP 1\obj\Debug\Exercice TP 1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Exercice TP 1\Exercice TP 1\obj\Debug\Exercice TP 1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Exercice TP 1\Exercice TP 1\obj\Debug\Exercice TP 1.exe
+C:\Users\Dell\source\repos\Exercice TP 1\Exercice TP 1\obj\Debug\Exercice TP 1.pdb
